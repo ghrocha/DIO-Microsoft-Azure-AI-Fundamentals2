@@ -12,11 +12,12 @@ O [Azure Vision Studio](https://portal.vision.cognitive.azure.com/) é parte do 
 Siga os seguintes passos:
 Passo 1: 
 1. abra o portal do Azure em [https://portal.azure.com](https://portal.azure.com/?azure-portal=true) , entrando com a conta da Microsoft associada à sua assinatura do Azure.
-2. Create a resource
-- Categories: AI + Machine Learning
-- Azure IA service: Create
+2. **Create a resource**
+- Categories: **AI + Machine Learning**
+- Azure IA service: **Create**
 
-IMAGEMMMMMM
+![passo1](https://github.com/ghrocha/DIO-Microsoft-Azure-AI-Fundamentals2/assets/96626042/7bd492b6-7b85-4e65-993b-b1813f52f4b3)
+
 
 
 -   Resource group: crie um novo ou selecione um resource criado previamente
@@ -26,7 +27,7 @@ IMAGEMMMMMM
 -   Marca a caixa: "By checking this box I acknowledge that I have read and understood all the terms below"
 -   Review + create
 
-IMAGEMMMMMM
+![passo2](https://github.com/ghrocha/DIO-Microsoft-Azure-AI-Fundamentals2/assets/96626042/1e2f55fb-4458-46f3-8cbb-f960597dd1ee)
 
 - Create
 
